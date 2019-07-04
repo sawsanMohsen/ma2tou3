@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Mechanics">
+
+
+        <item>name:Abed</item>
+        <item>abed.itani25@gmail.com</item>
+        <item>70875694</item>
+        <item>Longitude:35.470564</item>
+        <item>Latitude:33.896562</item>
+
+
+        <item>name:Mechanic1</item>
+        <item>-</item>
+        <item>76000000</item>
+        <item>Longitude:35.516526</item>
+        <item>Latitude:33.886733</item>
+
+        <item>name:Mechanic2</item>
+        <item>mechanic5lyfe@gmail.com</item>
+        <item>78000000</item>
+        <item>Longitude:35.494768</item>
+        <item>Latitude:33.889583</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="TireRepairs">
+        <item>name:Tire-d</item>
+        <item>Tire@gmail.com</item>
+        <item>76023400</item>
+        <item>Longitude:35.470564</item>
+        <item>Latitude:33.892562</item>
+
+
+        <item>name:Broken Tire</item>
+        <item>lyfe@gmail.com</item>
+        <item>76012345</item>
+        <item>Longitude:35.519996</item>
+        <item>Latitude:33.886733</item>
+
+
+    </string-array>
+</resources>

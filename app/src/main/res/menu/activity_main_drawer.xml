@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_Mechanic"
+            android:icon="@drawable/mec"
+            android:title="@string/Mechanic" />
+
+        <item
+            android:id="@+id/nav_Electrician"
+            android:icon="@drawable/elec"
+            android:title="@string/Electrician" />
+        <item
+            android:id="@+id/nav_TireRepair"
+            android:icon="@drawable/tire"
+            android:title="@string/TireRepair" />
+
+        <item
+            android:id="@+id/nav_TowTruck"
+            android:icon="@drawable/tow"
+            android:title="@string/TowTruck"/>
+    </group>
+
+    <item android:title="">
+
+        <item
+            android:id="@+id/nav_aboutUs"
+            android:icon="@drawable/about"
+            android:title="@string/aboutUs"
+            />
+
+</item>
+
+
+</menu>

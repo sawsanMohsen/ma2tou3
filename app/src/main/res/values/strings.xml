@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Ma2tou3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_SignUpAsUser">Sign up as user</string>
+    <string name="action_SignUpAsWorker">Sign up as worker</string>
+    <string name="action_upgradeToWorker">Upgrade to worker</string>
+    <string name="Mechanic">Mechanic</string>
+    <string name="Electrician">Electricians</string>
+    <string name="TireRepair">Tire Repair</string>
+    <string name="TowTruck">Tow Trucks</string>
+
+    <!-- Strings related to login -->
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_phoneNumber">Phone number*</string>
+    <string name="userName">Name*</string>
+    <string name="prompt_password">Password*</string>
+    <string name="action_sign_up">Sign Up</string>
+    <string name="prompt_Specialty">Specialty</string>
+    <string name="action_sign_up_short">Sign Up</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="action_deleteAccount">Delete account</string>
+    <string name="action_sign_up_worker_upgrade">Upgrade</string>
+
+    <string name="welcome">Welcome!</string>
+    <string name="select">Swipe from the left and select one of the specialties for workers to help you.</string>
+    <string name="signUp">Sign up by clicking on the 3-dot buttons above.</string>
+    <string name="noEmail">No email address available</string>
+    <string name="accessLocation">Your location will be accessed.</string>
+    <string name="fields">All fields must be filled!</string>
+    <string name="createdSuccessfully">Created successfully</string>
+    <string name="upgradedSuccessfully">Upgraded Successfully</string>
+    <string name="error_phoneNumber_tooShort">This phone number is too short</string>
+    <string name="Delete_account">Delete your account</string>
+    <string name="AreYouSure">Are you sure?</string>
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+
+    <string name="call">Call</string>
+    <string name="showOnMap">Show on map</string>
+    <string name="close">Close</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_get_location_maps">Map</string>
+    <string name="useCurrentLocation"> Use current location</string>
+    <string name="done">Done</string>
+    <string name="chooseLocation">Choose location</string>
+    <string name="selectLocation">Please select a location</string>
+    <string name="LocationNotDetected">Location not detected!</string>
+    <string name="title_activity_edit_profile">Edit Profile</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="aboutUs">About us</string>
+    <string name="BackButtonAgain">Please click BACK again to exit"</string>
+
+</resources>

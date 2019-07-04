@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="TowTrucker">
+        <item>name:TowTruck1</item>
+        <item>-</item>
+        <item>76023400</item>
+        <item>Longitude:35.473564</item>
+        <item>Latitude:33.896562</item>
+
+
+        <item>name:TrowTruck2</item>
+        <item>TowTrucker@gmail.com</item>
+        <item>76012345</item>
+        <item>Longitude:35.519196</item>
+        <item>Latitude:33.886793</item>
+    </string-array>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Electricians">
+        <item>name:Elect8</item>
+        <item>sd2lyfe@gmail.com</item>
+        <item>76023400</item>
+        <item>Longitude:35.541264</item>
+        <item>Latitude:33.896562</item>
+
+
+        <item>name:E1</item>
+        <item>cian4lyfe@gmail.com</item>
+        <item>76053000</item>
+        <item>Longitude:35.516526</item>
+        <item>Latitude:33.854233</item>
+
+        <item>name:El3</item>
+        <item>electr5lyfe@gmail.com</item>
+        <item>78023000</item>
+        <item>Longitude:35.494368</item>
+        <item>Latitude:33.872583</item>
+    </string-array>
+</resources>
